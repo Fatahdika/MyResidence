@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="history_types">
+        <item>Bill Payment</item>
+        <item>Virtual Account</item>
+        <item>QR Payment</item>
+    </string-array>
+    <string-array name="prepaid_billers">
+        <item>Mentari</item>
+        <item>Indosat IM3</item>
+        <item>Telkomsel Simpati</item>
+        <item>Telkomsel AS</item>
+        <item>XL</item>
+        <item>Tri</item>
+        <item>Axis</item>
+        <item>Smartfren</item>
+    </string-array>
+    <string-array name="prepaid_denoms">
+        <item>10000</item>
+        <item>20000</item>
+        <item>50000</item>
+        <item>100000</item>
+    </string-array>
+    <string-array name="topup_step_bca_atm">
+        <item>Masukkan kartu ATM dan PIN BCA Anda</item>
+        <item>Masuk ke menu Transfer dan pilih BCA Virtual Account</item>
+        <item>Masukkan nomor rekening\n_va_</item>
+        <item>Masukkan jumlah top up yang diinginkan</item>
+        <item>Ikuti instruksi untuk menyelesaikan transaksi</item>
+    </string-array>
+    <string-array name="topup_step_bca_mobile">
+        <item>Login ke m-BCA</item>
+        <item>Pilih M-Transfer lalu Transfer BCA Virtual Account</item>
+        <item>Masukkan nomor rekening\n_va_</item>
+        <item>Masukkan jumlah top up yang diinginkan</item>
+        <item>Masukan PIN m-BCA Anda</item>
+        <item>Ikuti instruksi untuk menyelesaikan transaksi</item>
+    </string-array>
+    <string-array name="topup_step_bca_sim">
+        <item>Pilih m-BCA</item>
+        <item>Pilih M-Payment lalu Others/Lainnya</item>
+        <item>Ketik TVA lalu tekan OK</item>
+        <item>Masukkan nomor rekening Anda\n_va_</item>
+        <item>Masukan PIN m-BCA Anda</item>
+        <item>Masukan jumlah top up yang diinginkan</item>
+        <item>Masukan PIN BCA Anda lalu tekan OK</item>
+        <item>Ikuti instruksi untuk menyelesaikan transaks</item>
+    </string-array>
+    <string-array name="topup_step_pmt_atm">
+        <item>Masukkan kartu ATM dan PIN Permata Anda</item>
+        <item>Masuk ke menu Transfer dan pilih Transfer ke Rekening Permata Bank</item>
+        <item>Masukkan nomor rekening Anda\n_va_</item>
+        <item>Masukkan jumlah top up yang diinginkan</item>
+        <item>Ikuti instruksi untuk menyelesaikan transaksi</item>
+    </string-array>
+    <string-array name="topup_step_pmt_mobile">
+        <item>Login ke Permata Mobile</item>
+        <item>Pilih Transfer, lalu Antar Rekening Permata Bank</item>
+        <item>Masukkan nomor rekening Anda\n_va_</item>
+        <item>Masukkan jumlah top up yang diinginkan</item>
+        <item>Ikuti instruksi untuk menyelesaikan transaksi</item>
+    </string-array>
+    <string-array name="topup_step_pmt_net">
+        <item>Login ke PermataNet</item>
+        <item>Pilih Transfer, lalu Rekening Permata Bank</item>
+        <item>Masukkan nomor rekening Anda\n_va_</item>
+        <item>Masukkan jumlah top up yang diinginkan</item>
+        <item>Ikuti instruksi untuk menyelesaikan transaksi</item>
+    </string-array>
+    <string-array name="topup_step_atm_bersama">
+        <item>Masukkan kartu ATM dan PIN kartu Anda</item>
+        <item>Tekan menu Transfer lalu Transfer ke Bank Lain</item>
+        <item>Masukkan kode Bank Maybank\n016</item>
+        <item>Masukkan nomor rekening Anda\n_va_</item>
+        <item>Masukkan jumlah top up yang diinginkan</item>
+        <item>Ikuti instruksi untuk menyelesaikan transaksi</item>
+    </string-array>
+    <string-array name="topup_step_atm_prima">
+        <item>Masukkan kartu ATM dan PIN kartu Anda</item>
+        <item>Tekan menu Transfer lalu Transfer ke Bank Lain</item>
+        <item>Masukkan kode Bank Maybank\n016</item>
+        <item>Masukkan nomor rekening Anda\n_va_</item>
+        <item>Masukkan jumlah top up yang diinginkan</item>
+        <item>Ikuti instruksi untuk menyelesaikan transaksi</item>
+    </string-array>
+</resources>

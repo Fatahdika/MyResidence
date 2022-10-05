@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="secret_key" translatable="false">3c311b54a50aff4789776f4b</string>
+    <string name="api_url" translatable="false">http://eazyproperty.ipnet.co.id:1337/api/v1</string>
+
+    <bool name="volley_debug">true</bool>
+</resources>

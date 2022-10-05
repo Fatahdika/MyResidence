@@ -1,0 +1,264 @@
+<resources>
+  <string name="app_name" translatable="false">Eazy Property</string>
+  <string name="provider_package" translatable="false">id.eazyproperty.eazypay.provider</string>
+  <string name="btn_signin">Masuk</string>
+  <string name="btn_pay">Bayar</string>
+  <string name="btn_next">Lanjut</string>
+  <string name="btn_changekey">Ganti Kata Sandi</string>
+  <string name="btn_signout">Keluar</string>
+  <string name="title_signin">Masuk</string>
+  <string name="title_activity_main">MainAct</string>
+  <string name="title_home">Beranda</string>
+  <string name="title_eazy_menu">Menu Eazy</string>
+  <string name="title_history">Riwayat</string>
+  <string name="title_profile">Akun Saya</string>
+  <string name="title_billpay">Pembayaran Tagihan</string>
+  <string name="title_bill">Tagihan</string>
+  <string name="title_mobile_and_electric">Pulsa dan Token</string>
+  <string name="title_web_view">Web View</string>
+  <string name="title_school_notif">Berita</string>
+  <string name="title_scoreboard">Nilai</string>
+  <string name="title_qr_input">Masukkan Jumlah</string>
+  <string name="title_qr_confirm">Konfirmasi</string>
+  <string name="title_topup">"  Tambah Saldo  "</string>
+  <string name="title_copy">Salin</string>
+  <!--bill payment-->
+  <string name="title_bp_cc">Kartu Kredit</string>
+  <string name="title_bp_entmt">Hiburan</string>
+  <string name="title_bp_insurance">BPJS &amp; Asuransi</string>
+  <string name="title_bp_loan">Pinjaman</string>
+  <string name="title_bp_pln_pre">Token Listrik</string>
+  <string name="title_bp_postpaid">Pasca Bayar</string>
+  <string name="title_bp_prepaid">Pra Bayar</string>
+  <string name="title_bp_resident">Telkom, PLN, PAM</string>
+  <string name="title_bp_transport">Transportasi</string>
+  <string name="title_trx_detail">Detail Transaksi</string>
+
+  <string name="msg_qr_success">Pembayaran Berhasil</string>
+  <string name="msg_qr_failed">Pembayaran Gagal</string>
+  <string name="msg_key_change_success">Kata sandi berhasil diganti</string>
+  <string name="label_qrpay_init">Pindai QR Code untuk memulai transaksi</string>
+  <string name="label_va_trx_data">Data Transaksi</string>
+
+  <string name="info_topup">Untuk melakukan pengisian EAZY Group Wallet silakan mentransfer nominal yang Anda inginkan ke nomor Virtual Account di bawah ini</string>
+  <string name="info_va_1">Silakan lakukan pembayaran pada nomor Virtual Account yang tertera berikut ini.</string>
+  <string name="info_va_2">Terimakasih telah menggunakan aplikasi Eazy Property untuk kebutuhan transaksi Anda.</string>
+  <string name="info_bp_1">Silakan lakukan screenshot halaman ini sebagai bukti pembayaran bila dibutuhkan.</string>
+  <string name="info_update_app">Aplikasi Eazy Property terbaru versi %1$s sudah tersedia di Google Play Store.\n\n<i>Pada perangkat anda terpasang versi %2$s, silakan perbarui aplikasi anda terlebih dahulu.</i></string>
+  <string name="info_connection_unstable">Koneksi tidak stabil</string>
+  <string name="info_connection_unstable_2">Koneksi tidak stabil, mohon cek koneksi internet anda terlebih dahulu.</string>
+  <string name="info_failed_camera_storage_access">Tidak dapat mengakses kamera &amp; penyimpanan perangkat</string>
+  <string name="info_unrecognized_qr">QR Code tidak valid</string>
+
+  <string name="label_retry">Coba Lagi</string>
+  <string name="label_signup">Daftar</string>
+  <string name="label_verify">Verifikasi</string>
+  <string name="label_payment_type">Pembayaran</string>
+  <string name="label_biller">Penyedia Layanan</string>
+  <string name="label_sub_biller">Tipe</string>
+  <string name="label_bill_id">Nomor Pelanggan / Tagihan</string>
+  <string name="label_aux_bill_id">No Telepon</string>
+  <string name="label_amount">Jumlah</string>
+  <string name="label_denom">Denominasi</string>
+  <string name="label_save_trx">Simpan ke Favorit</string>
+  <string name="label_saved_trx">Favorit</string>
+  <string name="label_alias">Alias</string>
+  <string name="label_area">Area</string>
+  <string name="label_month">Jumlah Bulan yang akan Dibayar</string>
+  <string name="label_reload">Reload</string>
+  <string name="label_password">Kata Sandi</string>
+  <string name="label_confirm_password">Konfirmasi Kata Sandi</string>
+  <string name="label_old_key">Kata Sandi Lama</string>
+  <string name="label_new_key">Kata Sandi Baru</string>
+  <string name="label_confirm_new_key">Konfirmasi Kata Sandi Baru</string>
+  <string name="label_verification_code">Kode Verifikasi</string>
+  <string name="label_name">Nama Lengkap</string>
+  <string name="label_email" translatable="false">Email</string>
+  <string name="label_handphone">Nomor Handphone</string>
+  <string name="label_done">Selesai</string>
+  <string name="label_back">Kembali</string>
+  <string name="label_change_profile">Lihat Profil</string>
+  <string name="label_change_key">Ganti Kata Sandi</string>
+  <string name="label_profile_updated">Profil Berhasil Diupdate</string>
+  <string name="label_forgot_key">Lupa Kata Sandi</string>
+  <string name="label_payment_method">Metode Pembayaran</string>
+  <string name="label_update">Perbarui</string>
+  <string name="label_input_your_handphone">Masukkan nomor handphone anda</string>
+  <string name="label_check_input_resi">Pengiriman Dokumen</string>
+
+  <string name="label_trx_history_title">Transaksi</string>
+  <string name="label_trx_history_idtrx">ID Transaksi</string>
+  <string name="label_trx_history_amount">Jumlah</string>
+  <string name="label_trx_history_datetime">Tanggal Transaksi</string>
+  <string name="label_trx_history_reference">Token / Nomor Referensi</string>
+  <string name="label_trx_history_status">Status</string>
+  <string name="label_trx_history_type">Tipe Entri Transaksi</string>
+  <string name="label_trx_history_note">Catatan</string>
+  <string name="label_no_data">Tidak ada data</string>
+  <string name="label_trx_confirmation">Konfirmasi Transaksi</string>
+  <string name="label_ok">OK</string>
+  <string name="label_yes">Ya</string>
+  <string name="label_no">Tidak</string>
+  <string name="label_submit">Kirim</string>
+  <string name="label_cancel">Batal</string>
+  <string name="label_camera">Kamera</string>
+  <string name="label_gallery">Galeri</string>
+
+  <string name="field_required">Tidak boleh kosong</string>
+  <string name="field_cc_not_valid">Nomor kartu kredit tidak valid</string>
+  <string name="field_must_equal">Harus sama dengan field sebelumnya</string>
+  <string name="field_keys_must_differ">Kata sandi baru harus berbeda dengan kata sandi lama</string>
+  <string name="field_invalid_email">Email tidak valid</string>
+  <string name="field_invalid_password">Kata sandi tidak valid</string>
+  <string name="field_invalid_min_length">Panjang minimum %d karakter</string>
+  <string name="field_invalid_max_length">Panjang maksimum %d karakter</string>
+  <string name="hint_password">Kata sandi minimal terdiri atas 8 karakter dan harus mengandung huruf kecil, kapital, dan angka</string>
+  <string name="hint_forgot">Harap input alamat email yang Anda gunakan untuk aplikasi ini</string>
+  <string name="hint_verify">Harap input kode yang diterima melalui email yang telah Anda daftarkan untuk aplikasi ini</string>
+  <string name="label_agree_tac">Saya menyetujui <a href="tac://">syarat &amp; ketentuan</a> aplikasi Eazy Property</string>
+
+  <string name="topup_bank_bca" translatable="false">BCA</string>
+  <string name="topup_bank_permata" translatable="false">Permata</string>
+  <string name="topup_bank_bii" translatable="false">Maybank</string>
+  <string name="topup_bank_others">Lainnya</string>
+  <string name="topup_channel_bca_atm" translatable="false">ATM BCA</string>
+  <string name="topup_channel_bca_mobile" translatable="false">BCA Mobile</string>
+  <string name="topup_channel_bca_sim" translatable="false">m-BCA SIM Tool Kit</string>
+  <string name="topup_channel_pmt_atm" translatable="false">ATM Permata</string>
+  <string name="topup_channel_pmt_mobile" translatable="false">Permata Mobile</string>
+  <string name="topup_channel_pmt_net" translatable="false">PermataNet</string>
+  <string name="topup_channel_atm_bersama" translatable="false">ATM Bersama</string>
+  <string name="topup_channel_atm_prima" translatable="false">ATM Prima</string>
+
+  <string name="notif_timeout">Tidak ada respon</string>
+  <string name="notif_no_connection">Tidak ada koneksi</string>
+  <string name="notif_auth_failure">Otentikasi gagal</string>
+  <string name="notif_server_error">Terjadi kesalahan pada sistem</string>
+  <string name="notif_network_error">Terjadi kesalahan pada jaringan</string>
+  <string name="notif_parse_error">Gagal memproses respon</string>
+  <string name="notif_other_error">Terjadi kesalahan</string>
+  <string name="notif_failed_signin">Signin gagal</string>
+  <string name="notif_failed_signout">Signout gagal</string>
+  <string name="notif_failed_signup">Registrasi gagal</string>
+  <string name="notif_failed_verify">Verifikasi akun gagal</string>
+  <string name="notif_failed_changekey">Ganti kata sandi gagal</string>
+  <string name="notif_failed_get_data">Gagal memperoleh data</string>
+  <string name="notif_failed_va_gen">Gagal generate VA</string>
+  <string name="notif_bill_paid">Tagihan sudah terbayar</string>
+  <string name="notif_bill_expired">Tagihan sudah kadaluarsa</string>
+  <string name="notif_success_signup">Registrasi berhasil</string>
+  <string name="notif_success_verify">Verifikasi akun berhasil</string>
+  <string name="notif_success_changekey">Ganti kata sandi berhasil</string>
+  <string name="notif_success_resetkey">Reset kata sandi berhasil</string>
+  <string name="notif_copy_to_clipboard">Nomor VA sudah disalin</string>
+
+  <string name="status_signin_success">Berhasil masuk</string>
+  <string name="status_signin_invalid">Email atau kata sandi salah</string>
+  <string name="status_signin_blocked">Akun sudah diblokir</string>
+  <string name="status_signin_disabled">Akun sudah tidak aktif</string>
+  <string name="status_signin_used">Akun sedang dipakai\nMohon coba kembali setelah 15 menit</string>
+  <string name="status_signin_unverified">Akun belum diverifikasi</string>
+  <string name="status_signin_different_channel">Akun sudah terdaftar melalui channel lain</string>
+  <string name="status_signin_unregistered">Akun belum terdaftar</string>
+  <string name="status_signout_success">Berhasil keluar</string>
+
+  <string name="status_signup_empty_name">Nama harus diisi</string>
+  <string name="status_signup_empty_email">Email harus diisi</string>
+  <string name="status_signup_empty_hp">Nomor HP harus diisi</string>
+  <string name="status_signup_invalid_email">Email tidak valid</string>
+  <string name="status_signup_invalid_hp">Nomor HP tidak valid</string>
+  <string name="status_signup_used_email">Email sudah terdaftar</string>
+  <string name="status_signup_used_hp">Nomor HP sudah terdaftar</string>
+  <string name="status_signup_empty_key">Kata sandi harus diisi</string>
+
+  <string name="status_verify_empty_code">Kode verifikasi harus diisi</string>
+  <string name="status_verify_invalid_code">Kode verifikasi tidak valid</string>
+  <string name="status_verify_unsent_email">Email belum terkirim</string>
+  <string name="status_verify_verified">Akun sudah terverifikasi</string>
+
+  <string name="status_reset_key_empty_email">Email harus diisi</string>
+  <string name="status_reset_key_invalid_email">Email tidak valid</string>
+
+  <string name="status_change_key_empty_old_key">Kata sandi lama harus diisi</string>
+  <string name="status_change_key_empty_new_key">Kata sandi baru harus diisi</string>
+  <string name="status_change_key_invalid_old_key">Kata sandi lama tidak valid</string>
+  <string name="status_change_key_similar_keys">Kata sandi baru sama dengan kata sandi lama</string>
+  <string name="status_change_key_invalid_new_key">Kata sandi baru tidak valid</string>
+
+  <string name="status_tt_inquiry_invalid_reg_num">Nomor unit tidak valid</string>
+  <string name="status_tt_inquiry_duplicate_reg_num">Nomor unit tidak unik</string>
+  <string name="status_tt_inquiry_not_exists_reg_num">Nomor unit tidak ditemukan</string>
+  <string name="status_tt_inquiry_invalid_type">Tipe transaksi tidak valid</string>
+  <string name="status_tt_inquiry_access_denied">Permintaan ditolak</string>
+
+  <string name="status_success">Berhasil</string>
+  <string name="status_invalid_checksum">Data tidak valid</string>
+  <string name="status_invalid_token">Token tidak valid</string>
+  <string name="status_system_error">Terjadi kesalahan pada server</string>
+  <string name="status_undefined">Tidak terdefinisi</string>
+
+  <string name="status_billpay_message_error">Pesan error</string>
+  <string name="status_billpay_unknown_service_code">Maaf transaksi tidak dapat dilakukan pada pukul 23:00 &#8211; 01:00 WIB</string>
+  <string name="status_billpay_amount_difference">Nilai transaksi berbeda dari total tagihan</string>
+  <string name="status_billpay_unknown_bill">Nomor tagihan tidak dikenal</string>
+  <string name="status_billpay_trx_error">Terjadi kesalahan transaksi</string>
+  <string name="status_billpay_unknown_wrong_user_pass">Pengguna / Kata sandi salah atau tidak dikenal</string>
+  <string name="status_billpay_unsupported_trx">Transaksi tidak didukung</string>
+  <string name="status_billpay_timeout">Waktu habis</string>
+  <string name="status_billpay_already_paid">Tagihan sudah dibayar</string>
+  <string name="status_billpay_error">Maaf transaksi ini sedang tidak dapat dilakukan</string>
+
+  <string name="notif_insufficient_balance">Maaf saldo anda tidak mencukupi untuk melakukan transaksi ini</string>
+  <string name="notif_trx_success">Transaksi berhasil</string>
+  <string name="notif_please_relogin">Mohon login kembali!</string>
+  <string name="notif_trx_confirmation_question">Apakah anda yakin untuk melakukan transaksi ini ?</string>
+  <string name="info_please_wait">Mohon Tunggu</string>
+  <string name="header_wallet_balance">Saldo Dompet : </string>
+  <string name="header_balance">Saldo :</string>
+  <string name="label_chat_whatsapp">Chat Kami di Whatsapp</string>
+  <string name="info_feature_not_available">Maaf fitur yang anda pilih belum tersedia</string>
+  <string name="hotel_the_majesty" translatable="false">The Majesty Hotel</string>
+  <string name="hotel_grand_setiabudi" translatable="false">Grand Setiabudi</string>
+  <string name="hotel_galeri_ciumbuleuit" translatable="false">Galeri Ciumbuleuit</string>
+  <string name="hotel_btc" translatable="false">BTC Hotel</string>
+  <string name="hotel_green_forest" translatable="false">Green Forest Resort</string>
+  <string name="residential_hegarmanah" translatable="false">Hegarmanah Residence</string>
+  <string name="residential_galeri_ciumbuleuit_2" translatable="false">Galeri Ciumbuleuit 2</string>
+  <string name="residential_galeri_ciumbuleuit_3" translatable="false">Galeri Ciumbuleuit 3</string>
+  <string name="residential_pinewood" translatable="false">Pinewood Apartment</string>
+  <string name="mall_btc_fashion" translatable="false">BTC Fashion Mall</string>
+  <string name="mall_solo_grand" translatable="false">Solo Grand Mall</string>
+  <string name="mall_solo_paragon" translatable="false">Solo Paragon</string>
+  <string name="mall_jatinangor_town_square" translatable="false">Jatinangor Town Square</string>
+  <string name="label_hotel_resident_mall">Hotel, Mall &amp; Hunian</string>
+  <string name="label_hotel_information">Informasi Hotel</string>
+  <string name="label_residential_information">Informasi Hunian</string>
+  <string name="label_mall_information">Informasi Mall</string>
+  <string name="label_member_id">ID Anggota</string>
+  <string name="label_input_member_id">Masukkan ID anggota disini</string>
+  <string name="label_va_property_name">Nama Properti</string>
+  <string name="label_pay">Bayar</string>
+  <string name="label_generate_va" translatable="false">Generate VA</string>
+  <string name="label_show_detail">Tampilkan Detail Tagihan</string>
+  <string name="label_hide_detail">Sembunyikan Detail Tagihan</string>
+  <string name="info_fullname_error">Isian Nama minimum 3 karakter</string>
+  <string name="info_resi_too_short">Isian Resi minimum 5 karakter</string>
+  <string name="title_lavaya" translatable="false">Lavaya Resort</string>
+  <string name="title_eazy_property" translatable="false">Eazy Property</string>
+  <string name="title_project_info">Info Proyek</string>
+  <string name="title_lot_installment">Cicilan Lot</string>
+  <string name="title_member_id">"ID Anggota : "</string>
+  <string name="title_elite_member_id">"ID Anggota Elite : "</string>
+  <string name="title_history_trx_id">"ID Transaksi : "</string>
+  <string name="label_no_resi">Nomor Resi Pengiriman</string>
+  <string name="label_date">Tanggal</string>
+  <string name="title_resi_dokumen_awal" translatable="false">Dokumen Awal</string>
+  <string name="title_resi_pengembalian_produk" translatable="false">Pengembalian Dokumen</string>
+  <string name="title_resi_legalisir" translatable="false">Pengiriman Dokumen Legalisir</string>
+  <string name="info_date_empty">Tanggal harus diisi</string>
+  <string name="label_trx_history_due_datetime">Tanggal Jatuh Tempo</string>
+  <string name="label_trx_history_invoice">Nomor Invoice</string>
+  <string name="label_trx_history_lot_amount">Jumlah Lot</string>
+  <string name="label_trx_history_installment_to">Cicilan Ke</string>
+  <string name="error_server_offline">Maaf saat ini server sedang offline, mohon coba beberapa saat lagi</string>
+</resources>
